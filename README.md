@@ -1,1 +1,3 @@
 # COVID19
+
+This is a repository of the COVID19 modelling efforts of a Team from the NIP...
